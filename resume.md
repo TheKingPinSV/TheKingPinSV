@@ -1,8 +1,11 @@
 # Shivam Vyas
 
 **Email:** vyas.shivam@northeastern.edu
+
 **LinkedIn:** linkedin.com/in/shivam-vyas-kingpinsv/
+
 **GitHub:** github.com/TheKingPinSV
+
 **Portfolio:** sites.google.com/view/shivam-aka-kingpinsv/home
 
 ---
